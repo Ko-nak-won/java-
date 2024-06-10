@@ -56,4 +56,3 @@ class Tree extends Countable {
         System.out.println(num + "그루 "+ name + "에 열매가 잘 익었다.");
     }
 }
-[출처] [쉽게 배우는 자바프로그래밍] 7장 도전과제|작성자 박예진
